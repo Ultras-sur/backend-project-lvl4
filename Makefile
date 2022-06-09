@@ -26,3 +26,6 @@ lint:
 
 test:
 	npm test -s
+
+push:
+	git push -u origin main	
